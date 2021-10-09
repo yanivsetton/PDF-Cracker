@@ -21,8 +21,12 @@
 ### REQUIREMENTS
 - __Docker installed__
 
-### How to use
+### How to use:
 - __git clone https://github.com/yanivsetton/PDF-Cracker.git__
+- __cd PDF-Cracker__
+- __docker build -t pdf_cracker:latest .__
+- __chmod +x ./run_me.sh__
+- __./run_me.sh__
 
 ## DISCLAIMER: USE FOR LEGAL INTENTS ONLY. YOU ARE SOLELY RESPONSIBLE FOR ANY MISUSE / ILLEGAL INTENT.
 ## Forked and modify for pdf cracker script by https://github.com/poponealex/PDForce
