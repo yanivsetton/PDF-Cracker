@@ -26,7 +26,7 @@
 - __cd PDF-Cracker__
 - __docker build -t pdf_cracker:latest .__
 - __chmod +x ./run_me.sh__
-_ __change in run_me.sh pdf_path and list_folder (Description in the script itself)__
+- __change in run_me.sh pdf_path and list_folder (Description in the script itself)__
 - __./run_me.sh__
 
 ## DISCLAIMER: USE FOR LEGAL INTENTS ONLY. YOU ARE SOLELY RESPONSIBLE FOR ANY MISUSE / ILLEGAL INTENT.
